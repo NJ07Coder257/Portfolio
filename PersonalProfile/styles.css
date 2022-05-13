@@ -1,0 +1,202 @@
+.navibar {
+    background: #30475E;
+}
+
+.navi-item {
+    color: #F05454;
+    margin-right: 30px;
+    font-size: 20px;
+    margin-top: 5px;
+    margin-bottom: 2px;
+    font-family: 'Nanum Gothic Coding', monospace;
+}
+
+#section-1 {
+    background: #222831;
+    padding: 8% 16%;
+}
+
+#profile-img {
+    width: 23rem;
+    border-radius: 50%;
+
+}
+
+.title-sec-1 {
+    font-family: 'Koulen', cursive;
+    color: #F05454;
+    line-height: 1;
+    font-size: 140px;
+}
+
+.description-sec-1 {
+    font-family: 'Nanum Gothic Coding', monospace;
+    color: #F05454;
+    line-height: 1.3;
+    padding: 2rem 3rem;
+    font-size: 40px;
+}   
+
+.profile-pic-col {
+    margin: 0 auto;
+}
+
+#section-2 {
+    background: #9FA8B6;
+    padding: 5% 6% 8%;
+}
+
+.about-me-icon {
+    color: #30475E;
+	padding-bottom: 2.5rem;
+}
+
+.about-me {
+    text-align: center;
+    line-height: 1.2;
+}
+
+.title-sec-2 {
+    font-family: 'Koulen', cursive;
+    color: #F05454;
+    line-height: 1;
+    font-size: 100px;
+    text-align: center;
+}
+
+.description-sec-2 {
+    font-family: 'Nanum Gothic Coding', monospace;
+    color: #F05454;
+    line-height: 1.3;
+    font-size: 27px;
+}
+
+.hobby-box {
+    text-align: center;
+}
+
+.hobby-img {
+    width: 340px;
+}
+
+.des {
+	margin: 0 auto;
+}
+
+.section-3 {
+	background-color: #222831;
+	padding: 6% 8% 5%;
+}
+
+.title-sec-3 {
+    font-family: 'Koulen', cursive;
+    color: #F05454;
+    line-height: 1;
+    font-size: 100px;
+    text-align: center;
+}
+
+.description-sec-3 {
+    font-family: 'Nanum Gothic Coding', monospace;
+    color: #F05454;
+    line-height: 1.3;
+    font-size: 25px;
+	padding-top: 1rem;
+}
+
+#section-4 {
+	background: #9FA8B6;
+    padding: 8% 6%;
+}
+
+.title-sec-4 {
+    font-family: 'Koulen', cursive;
+    color: #F05454;
+    line-height: 1;
+    font-size: 100px;
+    text-align: center;
+}
+
+.description-sec-4 {
+    font-family: 'Nanum Gothic Coding', monospace;
+    color: #F05454;
+    line-height: 1.3;
+    font-size: 25px;
+}
+
+.projects-img {
+    width: 450px;
+}
+
+.sub-title-sec-4 {
+    font-family: 'Koulen', cursive;
+    color: #F05454;
+    line-height: 1.2;
+    font-size: 70px;
+    text-align: center;
+}
+
+.project-box {
+    padding: 5% 0%;
+}
+
+.section-5 {
+	background: #222831;
+    padding: 8% 6%;
+}
+
+.sub-title-sec-5 {
+    font-family: 'Koulen', cursive;
+    color: #F05454;
+    line-height: 1.2;
+    font-size: 70px;
+    text-align: center;
+}
+
+.title-sec-5 {
+    font-family: 'Koulen', cursive;
+    color: #F05454;
+    line-height: 1;
+    font-size: 100px;
+    text-align: center;
+}
+
+.description-sec-5 {
+    font-family: 'Nanum Gothic Coding', monospace;
+    color: #F05454;
+    line-height: 1.3;
+    font-size: 27px;
+}
+
+.future-projects-img {
+    width: 450px;
+    border-radius: 50%;
+}
+
+#section-6 {
+	background: #9FA8B6;
+    padding: 8% 6%;
+    text-align: center;
+}
+
+.title-sec-6 {
+    font-family: 'Koulen', cursive;
+    color: #F05454;
+    line-height: 1;
+    font-size: 100px;
+    text-align: center;
+}
+
+.description-sec-6 {
+    font-family: 'Nanum Gothic Coding', monospace;
+    color: #F05454;
+    line-height: 1.3;
+    font-size: 27px;
+    text-align: center;
+    padding: 4% 2%;
+}
+
+.button {
+    padding: 0.5rem 1rem;
+    font-size: 28px;
+}
